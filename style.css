@@ -6,7 +6,7 @@ body{
   background-image: repeating-linear-gradient(lightblue, blue 5%, lightblue 20%); 
 }
 
-iframe{
+.img{
   border: none;
   display: block;
   width: 800%;
