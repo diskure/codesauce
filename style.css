@@ -7,6 +7,35 @@ body{
   background-color:
 }
 
+h1{
+  background-image: linear-gradient(darkblue,lightblue,blue);
+  padding:20px;
+  color:darkblue;
+  font-size:50px;
+  margin-left:20px;
+  margin-right:20pxl;
+  text-align:center;
+  text-shadow: 2px 2px white
+  }
+
+h2{
+  background-image: repeating-linear-gradient(blue, lightblue , blue);
+  color:darkblue;
+  margin-left:20px;
+  margin-right:20px;
+  text-align:center;
+  text-shadow:2px 2px white
+}
+
+p{
+  font-size:20px;
+  color:black;
+    margin-left:50px;
+  margin-right:50px;
+  text-align:center
+}
+  
+
 img{
   border: none;
   display: block;
